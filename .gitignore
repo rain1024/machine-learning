@@ -57,3 +57,6 @@ crashlytics-build.properties
 logistic-regression/machine-learning-ex2/ex2
 logistic-regression/machine-learning-ex2
 linear-regression/machine-learning-ex1
+logistic-regression/.ipynb_checkpoints
+neural-network/.ipynb_checkpoints
+neural-network/machine-learning-ex3
